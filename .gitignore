@@ -1,0 +1,14 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+.pants.d
+dist
+.pids
+.pants.workdir.file_lock
+.cache
+*.pyc
