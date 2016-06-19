@@ -19,3 +19,7 @@ jar_library(name = 'twirl-api',
               scala_jar('com.typesafe.play', 'twirl-api', '1.1.1')
             ])
 
+jar_library(name = 'play-pants-runner',
+            jars = [
+              jar('com.thesamet', 'play-pants-runner', '0.0.1'),
+            ])
